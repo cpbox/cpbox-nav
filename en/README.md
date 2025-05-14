@@ -42,7 +42,7 @@ Quickly enter the CPBOX official website: [https://www.cpbox.io](https://www.cpb
 
 - **[EVM chain batch sending tutorial](https://www.cpbox.io/cn/batch/send-token)**: Batch sending, fast multi-wallet buying and selling ｜[View tutorial](https://docs.cpbox.io/pi-liang-gong-ju/pi-liang-fa-song.html)
 - **[Solana chain batch sending tutorial](https://www.cpbox.io/cn/solana/batch/send)**: Realize Sol chain fast transfer or send MEME airdrop ｜[View tutorial](https://www.cpbox.io/articles/cn/2841.html)
-- **[Ton [Batch Sending Tutorial](https://www.cpbox.io/cn/ton/batch-send-token)**: Realize fast transfer or token airdrop on Ton chain ｜[View Tutorial]()
+- **[Ton Batch Sending Tutorial](https://www.cpbox.io/cn/ton/batch-send-token)**: Realize fast transfer or token airdrop on Ton chain ｜[View Tutorial]()
 - **[Batch Sending Tutorial on Sui chain](https://www.cpbox.io/cn/sui/batch-send-token)**: Realize fast transfer or token airdrop on Sui chain ｜[View Tutorial]()
 
 ---
