@@ -96,7 +96,8 @@ We believe that blockchain technology will reshape the future of the global digi
 
 ## Contact Us
 
-- **Twitter/X**：[@cpbox](https://x.com/cpbox)
+- **Twitter/X**：[@cpbox](https://x.com/cpbox) | [@web3cryptobox](https://x.com/web3cryptobox)
 - **Official Website**：[www.cpbox.io](www.cpbox.io)
 - **Telegram**：[t.me/cpbox](https://t.me/cpbox)
 - **GitHub**：[github.com/cpbox](https://github.com/cpbox)
+- **Email**：[we@cpbox.io](we@cpbox.io)
