@@ -1,10 +1,12 @@
+🌐 中文 | [English](en/README.md) 🌐
+
 # CPBOX 导航
 
 CPBOX 是业内领先的 Web3.0 多链工具平台，致力于通过全可视化界面简化区块链操作，让用户无需编程即可安全、轻松地完成发币、流动性管理等复杂过程。我们已支持 Ethereum、BSC、Solana、TRON、BASE、SUI、TON 等数十个主流区块链网络，功能覆盖基于 EVM 架构的所有 Layer1 和 Layer2 网络，为 Web3 生态用户提供全方位的实用工具。
 
 快速进入 CPBOX 官网：[https://www.cpbox.io](https://www.cpbox.io/cn/)
 
-![alt text](assets/image.png)
+![alt text](assets/menu_cn.png)
 
 ---
 
