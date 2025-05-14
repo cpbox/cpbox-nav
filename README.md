@@ -95,7 +95,8 @@ CPBOX 的愿景是成为 Web3 世界中最可靠、最易用的区块链工具�
 
 ## 联系我们
 
-- **Twitter/X**：[@cpbox](https://x.com/cpbox)
+- **Twitter/X**：[@cpbox](https://x.com/cpbox) | [@web3cryptobox](https://x.com/web3cryptobox)
 - **官网**：[www.cpbox.io](www.cpbox.io)
 - **Telegram**：[t.me/cpbox](https://t.me/cpbox)
 - **GitHub**：[github.com/cpbox](https://github.com/cpbox)
+- **邮箱**：[we@cpbox.io](we@cpbox.io)
