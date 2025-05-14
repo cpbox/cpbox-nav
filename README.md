@@ -17,7 +17,7 @@ CPBOX 是业内领先的 Web3.0 多链工具平台，致力于通过全可视化
 - **[批量授权](https://www.cpbox.io/cn/batch/approve)**：一次性为多个钱包提前批量授权合约｜[查看教程](https://www.cpbox.io/articles/cn/2830.html)
 - **[批量合约调用](https://www.cpbox.io/cn/batch/call-contract)**：灵活调用合约，实现多个地址 mint token 或 NFT，批量 swap 等高级操作｜[查看教程](https://www.cpbox.io/articles/cn/2871.html)
 - **[批量助记词导出私钥](https://www.cpbox.io/cn/mnemonic)**：灵活快速导出多组 HD 钱包私钥｜[查看教程]()
-- **[MetaMask 助手](https://www.cpbox.io/cn/twitter/bind)**：热门新链快速添加到钱包，撸毛快人一步|[查看教程]()
+- **[MetaMask 助手](https://www.cpbox.io/cn/metamask/helper)**：热门新链快速添加到钱包，撸毛快人一步|[查看教程]()
 
 ---
 
